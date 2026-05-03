@@ -1,0 +1,2 @@
+# Production dependencies
+# Currently no external dependencies required - uses Python standard library only
