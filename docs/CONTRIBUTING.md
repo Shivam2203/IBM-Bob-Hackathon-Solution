@@ -55,14 +55,14 @@ We are committed to providing a welcoming and inclusive environment for all cont
 2. Clone your fork locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/calculator.git
+git clone https://github.com/Shivam2203/IBM-Bob-Hackathon-Solution.git
 cd calculator
 ```
 
 3. Add the upstream repository:
 
 ```bash
-git remote add upstream https://github.com/ORIGINAL_OWNER/calculator.git
+git remote add upstream https://github.com/Shivam2203/IBM-Bob-Hackathon-Solution.git
 ```
 
 ---
