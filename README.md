@@ -1,7 +1,6 @@
-```markdown
 # 🤖 AI-Powered Development Automation Suite
 
-**Transform any code into a production-ready project in 20 minutes using IBM Bob**
+Transform any code into a production-ready project in 20 minutes using IBM Bob
 
 [![IBM Bob](https://img.shields.io/badge/Built%20with-IBM%20Bob-blue)](https://www.ibm.com)
 [![Python](https://img.shields.io/badge/Python-3.8+-green)](https://python.org)
@@ -356,8 +355,6 @@ For issues, questions, or contributions, please visit:
 <div align="center">
 
 **Built with 🤖 IBM Bob | Turn ideas into impact faster**
-
 **IBM Bob Dev Day Hackathon 2026**
 
 </div>
-```
