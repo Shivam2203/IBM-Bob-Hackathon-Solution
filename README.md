@@ -23,7 +23,7 @@ A professional Python calculator library with comprehensive testing, documentati
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/Shivam2203/IBM-Bob-Hackathon-Solution.git
 cd calculator
 
 # Install in development mode
@@ -197,9 +197,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For issues, questions, or contributions, please visit:
-- **Issues**: https://github.com/yourusername/calculator/issues
-- **Discussions**: https://github.com/yourusername/calculator/discussions
+- **Issues**: https://github.com/Shivam2203/IBM-Bob-Hackathon-Solution/issues
+- **Discussions**: https://github.com/Shivam2203/IBM-Bob-Hackathon-Solution/discussions
 
 ---
 
-Made with ❤️ by the Calculator Team
+Made with [Bob](image.png)! by the Shivam
